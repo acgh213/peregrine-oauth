@@ -1,0 +1,12 @@
+{
+  "client_id": "https://acgh213.github.io/peregrine-oauth/client-metadata.json",
+  "application_type": "native",
+  "client_name": "Peregrine",
+  "client_uri": "https://durandal.exe.xyz/starsetbyte/peregrine",
+  "dpop_bound_access_tokens": true,
+  "grant_types": ["authorization_code", "refresh_token"],
+  "redirect_uris": ["com.peregrine.app:/oauth-redirect"],
+  "response_types": ["code"],
+  "scope": "atproto transition:generic transition:email",
+  "token_endpoint_auth_method": "none"
+}
